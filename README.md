@@ -15,6 +15,8 @@ projects/
   README.md                ← 项目总览
   career.md                ← 职业方向与背景亮点
   ml-portfolio.md          ← 机器学习/数据分析项目档案
+  hyrox-prep.md            ← HYROX 备赛：目标 sub-75
+  football-strength-plan.md ← 足球+力量周计划：四分化+双赛日排期
 AI-USAGE.md                ← 给 AI 的接入提示词（新对话直接复制使用）
 SECURITY.md                ← 安全红线（AI 必读）
 ```
@@ -29,3 +31,4 @@ SECURITY.md                ← 安全红线（AI 必读）
 ## 更新日志
 
 - 2026-10-16：公开版初始发布（由私密档案脱敏而来）。
+- 2026-10-17：新增 HYROX 备赛与足球+力量周计划项目档案。
